@@ -1,0 +1,23 @@
+﻿body{
+	background-color:#000000;
+	color: #1f7a1f;
+	padding: 25px;
+	width: 100%;
+		}
+
+	h1 {
+		font-size: 40px;
+		font-family: 'Finger Paint', cursive;
+		text-align:center ;
+		
+	}
+	h4 {
+		font-family: 'Finger Paint', cursive;
+		text-align:center ;
+		
+	}
+	p{
+		font-size: 25px;
+		font-family: 'Finger Paint', cursive;
+		
+	}
