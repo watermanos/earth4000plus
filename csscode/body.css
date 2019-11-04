@@ -1,23 +1,45 @@
-﻿body{
+body{
 	background-color:#000000;
 	color: #1f7a1f;
 	padding: 25px;
 	width: 100%;
+	font-family:custom;
+	text-align:center;
 		}
 
-	h1 {
+h1 {
 		font-size: 40px;
-		font-family: 'Finger Paint', cursive;
+		font-family: custom;
 		text-align:center ;
 		
 	}
-	h4 {
-		font-family: 'Finger Paint', cursive;
+h4 {
+		font-family: custom;
 		text-align:center ;
 		
 	}
-	p{
+p{
+		font-size: 19px;
+		font-family: custom;
+		text-align:center;
+	}
+
+a{
 		font-size: 25px;
-		font-family: 'Minecraftia-Regular';
+		font-family: custom;
 		
 	}
+	span{
+		font-size: 5px;
+		font-family: custom;
+		text-align: center;
+		color: red;
+	}
+@font-face{
+	font-family:custom;
+	src:url('uni0553-webfont.eot');
+	src:url('uni0553-webfont.woff');
+	
+}
+
+
